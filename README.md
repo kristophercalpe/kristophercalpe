@@ -98,12 +98,12 @@ I'm a detail-oriented **Full Stack Developer** based in the Philippines, holding
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kristophercalpe&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristophercalpe&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kristophercalpe&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kristophercalpe&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristophercalpe&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=kristophercalpe&theme=tokyonight" />
 </p>
 
 ---
